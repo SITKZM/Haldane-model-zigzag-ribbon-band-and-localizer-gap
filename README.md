@@ -3,10 +3,15 @@ Calculation of the zigzag ribbon bands of the Haldane model and the localizer ga
 
 ## Examples
 There are three plots as examples, which were created using the following parameters:
+
 Nx = 10
+
 band
+
     ky = np.linspace(0, 2 * np.pi / np.sqrt(3), 100)
+
 localizer gap, local Chern number
+
     Ny = 10
     kappa = 1
 
