@@ -1,5 +1,5 @@
 # Haldane-model-zigzag-ribbon-band-and-localizer-gap
-Calculation of the zigzag ribbon bands of the Haldane model and the localizer gap to distinguish the topological phases.
+Calculation of the zigzag ribbon bands of the metallized Haldane model and the localizer gap to distinguish the topological phases.
 
 ## Examples
 There are three plots as examples, which were created using the following parameters:
